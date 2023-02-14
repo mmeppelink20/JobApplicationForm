@@ -1,0 +1,238 @@
+* {
+	outline: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+div#header{
+    position: fixed;
+    width: 100%;
+    box-shadow: 0px 0px 5px 0px rgb(154, 154, 154);
+    z-index: 99;
+    background-color: white;
+
+}
+
+#randomNum {
+    font-size: 25pt;
+}
+
+div#jobTitle {
+	background: white;
+    width: 1024px;
+	margin-top: 1px;
+}
+#headerImage {
+	width: 100%;
+}
+
+#page {
+	box-shadow: rgb(0 0 0 / 20%) 0px 2px 8px, rgb(0 0 0 / 16%) 0px 4px 16px;
+    background-color: rgb(255, 255, 255);
+    max-width: 1024px;
+    margin: auto;
+}
+
+.selectmenu {
+    font-family: inherit;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    letter-spacing: 0.015rem;
+    font-weight: 400;
+    color: rgb(73, 73, 73);
+    border: 1px solid rgb(123, 133, 143);
+    display: block;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    padding: 10px;
+    width: 357px;
+
+}
+#tabs {
+    width: 1015px;
+}
+#tabs .ui-tabs-nav {
+    height: 2.35em;
+    text-align: center;
+}
+#tabs .ui-tabs-nav li {
+    display: inline-block;
+    overflow: hidden;
+    float: none;
+    margin: 0em;
+}
+
+
+body {
+	background-color: #F0F1F2;
+}
+div#header {
+	width: 100%;
+	background-color: white;
+	
+}
+
+.myInformationHeader{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.myInformationHeader{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+div.spacer
+{
+    font-size: 0; 
+    height: 1px;
+    line-height: 0;
+    background-color: white;
+}
+
+.textBoxInput {
+    font-family: inherit;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    letter-spacing: 0.015rem;
+    font-weight: 400;
+    color: rgb(73, 73, 73);
+    border: 1px solid rgb(123, 133, 143);
+    display: block;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    padding: 8px;
+    width: 338px;
+}
+
+.largeTextBoxInput {
+    font-family: inherit;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    letter-spacing: 0.015rem;
+    font-weight: 400;
+    color: rgb(73, 73, 73);
+    border: 1px solid rgb(123, 133, 143);
+    display: block;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    padding: 8px;
+    width: 650px;
+}
+
+
+.textBoxInputStartDate {
+    font-family: inherit;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    letter-spacing: 0.015rem;
+    font-weight: 400;
+    color: rgb(73, 73, 73);
+    border: 1px solid rgb(123, 133, 143);
+    display: block;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    padding: 8px;
+    width: 338px;
+}
+
+.textBoxInputEndDate {
+    font-family: inherit;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    letter-spacing: 0.015rem;
+    font-weight: 400;
+    color: rgb(73, 73, 73);
+    border: 1px solid rgb(123, 133, 143);
+    display: block;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    padding: 8px;
+    width: 338px;
+}
+
+.companyLegend {
+    padding-top: 10px;
+}
+
+fieldset {
+    border: 0;
+}
+
+#submitButton {
+    float: right;
+}
+#submitButton input {
+    margin-top: 25px;
+    margin-right: 125px;
+}
+
+#buttonGroup {
+    width: 100%;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+#tab1submit {
+    margin-right: 25px;
+    float: right;
+}
+
+#form {
+    width: 50%;
+}
+
+#pageContent {
+    padding-left: 135px;
+    padding-right: 135px;
+}
+
+
+h5 {
+    font-weight: normal;
+    padding-bottom: 25px;
+}
+
+h4 {
+    font-size: 11pt;
+    padding-bottom: 10px;
+}
+
+
+h2 {
+    color: #CE1127;
+    font-weight: normal;
+    font-size: 17.5pt;
+}
+
+h1 {
+    font-size: 20pt;
+}
+
+#firstSubSectionContent {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+}
+
+#subSectionContent {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+hr.solid {
+    border-top: .02px solid #bbb;
+    width: 715px;
+  }
+
+
+
+  
